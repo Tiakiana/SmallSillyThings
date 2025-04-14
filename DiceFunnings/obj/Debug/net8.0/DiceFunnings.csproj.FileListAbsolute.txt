@@ -1,0 +1,14 @@
+C:\Users\JAAR\source\repos\DiceFunnings\bin\Debug\net8.0\DiceFunnings.exe
+C:\Users\JAAR\source\repos\DiceFunnings\bin\Debug\net8.0\DiceFunnings.deps.json
+C:\Users\JAAR\source\repos\DiceFunnings\bin\Debug\net8.0\DiceFunnings.runtimeconfig.json
+C:\Users\JAAR\source\repos\DiceFunnings\bin\Debug\net8.0\DiceFunnings.dll
+C:\Users\JAAR\source\repos\DiceFunnings\bin\Debug\net8.0\DiceFunnings.pdb
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.AssemblyInfoInputs.cache
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.AssemblyInfo.cs
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.csproj.CoreCompileInputs.cache
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.dll
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\refint\DiceFunnings.dll
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.pdb
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\DiceFunnings.genruntimeconfig.cache
+C:\Users\JAAR\source\repos\DiceFunnings\obj\Debug\net8.0\ref\DiceFunnings.dll

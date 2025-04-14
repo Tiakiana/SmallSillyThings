@@ -1,0 +1,16 @@
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.exe
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.deps.json
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.runtimeconfig.json
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.runtimeconfig.dev.json
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.dll
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\DijkstraMap.pdb
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\C5.dll
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\bin\Debug\netcoreapp3.1\FloodSpill.dll
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.csprojAssemblyReference.cache
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.AssemblyInfoInputs.cache
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.AssemblyInfo.cs
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.csproj.CoreCompileInputs.cache
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.csproj.CopyComplete
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.dll
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.pdb
+C:\Users\JAAR\source\repos\DijkstraMap\DijkstraMap\obj\Debug\netcoreapp3.1\DijkstraMap.genruntimeconfig.cache

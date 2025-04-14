@@ -1,0 +1,15 @@
+C:\Users\JAAR\source\repos\Zipper\Zipper\bin\Release\net6.0\Zipper.exe
+C:\Users\JAAR\source\repos\Zipper\Zipper\bin\Release\net6.0\Zipper.deps.json
+C:\Users\JAAR\source\repos\Zipper\Zipper\bin\Release\net6.0\Zipper.runtimeconfig.json
+C:\Users\JAAR\source\repos\Zipper\Zipper\bin\Release\net6.0\Zipper.dll
+C:\Users\JAAR\source\repos\Zipper\Zipper\bin\Release\net6.0\Zipper.pdb
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.csproj.AssemblyReference.cache
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.AssemblyInfoInputs.cache
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.AssemblyInfo.cs
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.csproj.CoreCompileInputs.cache
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.dll
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\refint\Zipper.dll
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.pdb
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\Zipper.genruntimeconfig.cache
+C:\Users\JAAR\source\repos\Zipper\Zipper\obj\Release\net6.0\ref\Zipper.dll

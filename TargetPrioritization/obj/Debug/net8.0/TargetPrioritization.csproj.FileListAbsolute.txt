@@ -1,0 +1,14 @@
+C:\Users\JAAR\source\repos\TargetPrioritization\bin\Debug\net8.0\TargetPrioritization.exe
+C:\Users\JAAR\source\repos\TargetPrioritization\bin\Debug\net8.0\TargetPrioritization.deps.json
+C:\Users\JAAR\source\repos\TargetPrioritization\bin\Debug\net8.0\TargetPrioritization.runtimeconfig.json
+C:\Users\JAAR\source\repos\TargetPrioritization\bin\Debug\net8.0\TargetPrioritization.dll
+C:\Users\JAAR\source\repos\TargetPrioritization\bin\Debug\net8.0\TargetPrioritization.pdb
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.AssemblyInfoInputs.cache
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.AssemblyInfo.cs
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.csproj.CoreCompileInputs.cache
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.dll
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\refint\TargetPrioritization.dll
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.pdb
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\TargetPrioritization.genruntimeconfig.cache
+C:\Users\JAAR\source\repos\TargetPrioritization\obj\Debug\net8.0\ref\TargetPrioritization.dll

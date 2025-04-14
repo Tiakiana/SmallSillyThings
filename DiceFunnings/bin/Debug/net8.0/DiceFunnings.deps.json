@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DiceFunnings/1.0.0": {
+        "runtime": {
+          "DiceFunnings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiceFunnings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
