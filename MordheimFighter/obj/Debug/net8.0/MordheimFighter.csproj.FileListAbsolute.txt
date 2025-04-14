@@ -1,0 +1,14 @@
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.AssemblyInfoInputs.cache
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.AssemblyInfo.cs
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.csproj.CoreCompileInputs.cache
+C:\Users\JAAR\source\repos\MordheimFighter\bin\Debug\net8.0\MordheimFighter.exe
+C:\Users\JAAR\source\repos\MordheimFighter\bin\Debug\net8.0\MordheimFighter.deps.json
+C:\Users\JAAR\source\repos\MordheimFighter\bin\Debug\net8.0\MordheimFighter.runtimeconfig.json
+C:\Users\JAAR\source\repos\MordheimFighter\bin\Debug\net8.0\MordheimFighter.dll
+C:\Users\JAAR\source\repos\MordheimFighter\bin\Debug\net8.0\MordheimFighter.pdb
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.dll
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\refint\MordheimFighter.dll
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.pdb
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\MordheimFighter.genruntimeconfig.cache
+C:\Users\JAAR\source\repos\MordheimFighter\obj\Debug\net8.0\ref\MordheimFighter.dll

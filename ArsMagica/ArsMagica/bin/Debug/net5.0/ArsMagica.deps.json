@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArsMagica/1.0.0": {
+        "dependencies": {
+          "ArsMagicaLib": "1.0.0"
+        },
+        "runtime": {
+          "ArsMagica.dll": {}
+        }
+      },
+      "ArsMagicaLib/1.0.0": {
+        "runtime": {
+          "ArsMagicaLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArsMagica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArsMagicaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

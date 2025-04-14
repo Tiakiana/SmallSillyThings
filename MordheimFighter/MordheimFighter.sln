@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MordheimFighter", "MordheimFighter.csproj", "{463A56FA-4201-4ABF-8DF2-C44CFBDDCF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetPrioritization", "..\TargetPrioritization\TargetPrioritization.csproj", "{3563845C-8C41-4F4C-AF9A-2DA14EC47F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463A56FA-4201-4ABF-8DF2-C44CFBDDCF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463A56FA-4201-4ABF-8DF2-C44CFBDDCF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463A56FA-4201-4ABF-8DF2-C44CFBDDCF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463A56FA-4201-4ABF-8DF2-C44CFBDDCF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3563845C-8C41-4F4C-AF9A-2DA14EC47F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3563845C-8C41-4F4C-AF9A-2DA14EC47F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3563845C-8C41-4F4C-AF9A-2DA14EC47F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3563845C-8C41-4F4C-AF9A-2DA14EC47F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D479D45-CF81-47E4-924B-C3EB4B7A53B9}
+	EndGlobalSection
+EndGlobal
